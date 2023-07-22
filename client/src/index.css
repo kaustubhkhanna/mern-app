@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Schibsted+Grotesk&display=swap');
+body {
+  margin: 0;
+  font-family: 'Schibsted Grotesk', sans-serif;
+}
+ .primary{
+  background-color: #4a801d;
+  padding: 5px 20px ;
+  border: none;
+  border-radius: 3px;
+ }
+.body,html{
+  overflow-x: hidden;
+}
